@@ -37,12 +37,21 @@ Key words:
 - ***compile-time***: This is when the code is translated from a programming language to a language that a machine understands.
 - ***immutable object***: An immutable object is an object whose state can't be adjusted after it is made.
 
-Data Types:
+Variable Types:
 
 - ***Final***: Value must be known at run-time, final birthday = getBirthDateFromDB(), Can't be changed to a new value after initialized, but can be adjusted. Basically you can adjust the memory slot after been allocated, but can't readjust a new memory slot. can't change TYPE of the variable, & can't change VALUE of the variable later in code.
 - ***Const***: Value must be known at compile-time, const birthday  = "2008/12/25", Can't be changed or adjusted after initialized. Basically you can NOT adjust or reassign memory slot.
 - ***Late***:  Variables that will be initialized later. Late can NOT be create with const, cause const is initialized at compile time. But Late can be create with final, meaning once initialized at run-time, it can not be reallocated a memory slot.
 - ***Var***: can't change TYPE of the variable, but can change VALUE of the variable later in code.
+
+Data Types:
+
+- int
+- double
+- bool
+- String
+- List<DataType>: aka List, with pre-defined data type
+- Maps<DataType, DataType>: aka Dictionary
 
 To get into a habbit of specifying data types and Naming Convention, use the following:
 
