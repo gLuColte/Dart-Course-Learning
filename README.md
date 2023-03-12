@@ -23,7 +23,7 @@ Tools • Dart 2.19.4 • DevTools 2.20.1
 
 ## Dart's Variables and Data Types - Learn About Final, Const, Late and Data Types in Dart
 
-![Youtube Link Here] (<https://www.youtube.com/watch?v=uZELNjhtoPk&list=PL6yRaaP0WPkVLSOchfoIA0ZXySz4eSYV2&index=3&ab_channel=VandadNahavandipoor>)
+[Youtube Link Here] (<https://www.youtube.com/watch?v=uZELNjhtoPk&list=PL6yRaaP0WPkVLSOchfoIA0ZXySz4eSYV2&index=3&ab_channel=VandadNahavandipoor>)
 
 Create Dart Project from terminal
 
@@ -55,4 +55,4 @@ linter:
 
 ## Operators in Dart - Learn All About Operators and How They Work Under the Hood
 
-![Youtube Link Here](<https://www.youtube.com/watch?v=R75slm233ks&list=PL6yRaaP0WPkVLSOchfoIA0ZXySz4eSYV2&index=4&ab_channel=VandadNahavandipoor>)
+[Youtube Link Here](https://www.youtube.com/watch?v=R75slm233ks&list=PL6yRaaP0WPkVLSOchfoIA0ZXySz4eSYV2&index=4&ab_channel=VandadNahavandipoor)
